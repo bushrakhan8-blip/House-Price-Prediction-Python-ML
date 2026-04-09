@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction — Multiple Linear Regression & Random Forest Regressor
+# 🏠 House Price Prediction — Multiple Linear Regression
 
 ## Overview
 A machine learning project that builds and compares predictive models to estimate house prices based on property features. The dataset was loaded from **Azure Blob Storage** and analysed using **Python**, with models evaluated using RMSE and visualised through scatter plots and correlation heatmaps.
